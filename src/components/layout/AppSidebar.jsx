@@ -260,7 +260,6 @@ export function AppSidebar() {
       onMouseLeave={handleMouseLeave}
       collapsible="icon"
     >
-      <hr className="border-t border-gray-800 opacity-100" />
       <SidebarContent className="bg-gray-50">
         <SidebarGroup>
           <div
